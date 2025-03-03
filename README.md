@@ -3,6 +3,6 @@
 
 | llm      | link |
 | ----------- | ----------------- |
-|  土猛的员外     | [Title](https://luxiangdong.com/archives/)       |
+|  土猛的员外     | https://luxiangdong.com/archives/      |
 |  xxxx  | xxxx        |
 
